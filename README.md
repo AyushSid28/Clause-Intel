@@ -7,7 +7,11 @@ Backend:Flask
 AI:OpenAI 
 Libraries:PyPDF and requests and dotenv
 
-Now How to run the application:
+Clone this application:
+   cmd: git clone https://github.com/AyushSid28/Clause-Intel
+   
+Now To run the application:
+
 
 1.Firstly open your terminal and create a virtual environment:
      cmd:- python -m venv venv
