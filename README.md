@@ -7,7 +7,7 @@ Backend:Flask
 AI:OpenAI 
 Libraries:PyPDF and requests and dotenv
 
-Clone this application:
+Clone this Repository:
    cmd: git clone https://github.com/AyushSid28/Clause-Intel
    
 Now To run the application:
