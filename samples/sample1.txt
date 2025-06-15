@@ -1,0 +1,3 @@
+Valuation: The company is valued at $10M pre-money.
+Liquidation Preference: Investors receive 1x their investment with uncapped liability in case of liquidation.
+Board Composition: The board shall consist of 3 members, appointed by the majority shareholder.

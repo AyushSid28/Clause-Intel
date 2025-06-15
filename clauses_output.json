@@ -1,0 +1,14 @@
+{
+    "board": {
+        "explanation": "The board consists of 5 members, with an equal split between Founders and Investors. This structure may lead to conflicts in decision-making and strategic direction, particularly if there is a lack of consensus among appointed members.",
+        "text": "Board Composition: 5 seats"
+    },
+    "liquidation": {
+        "explanation": "A 1x liquidation preference means investors will recoup their initial investment before any common stockholders receive funds during liquidation. This creates a risk for common stockholders, especially if the company's liquidation value falls short of expected valuations.",
+        "text": "Liquidation Preference: 1x"
+    },
+    "valuation": {
+        "explanation": "The pre-money valuation of $5M is set, limiting the upside potential for current investors if the company grows significantly. Investors may face risks if the valuation does not increase substantially with future funding rounds.",
+        "text": "Valuation: $5,000,000"
+    }
+}
